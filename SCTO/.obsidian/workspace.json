@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "062bb2dd732d5070",
+    "type": "split",
+    "children": [
+      {
+        "id": "56eb9a81f3993484",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7013c59d3211b91d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 122,
+                  "y": 449.5,
+                  "zoom": -0.916122739114983
+                }
+              }
+            }
+          },
+          {
+            "id": "9ff546e139d57328",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "705a183a696bd344",
+    "type": "split",
+    "children": [
+      {
+        "id": "893caea0b62ba53c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65e9c833c39092e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "79030114292247cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#SLR",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6122b32f9984510f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "f4ab73e5ca81d4fd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 331.5086555480957
+  },
+  "right": {
+    "id": "f1027b9aeedb0cb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6e93ef09024c4cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7832789618f5a81a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ebfab15fcc5d8d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "897d8f0c7eaed2e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6857a43a16461b86",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.canvas"
+              }
+            }
+          },
+          {
+            "id": "ccc3dcce557eede7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "dbfolder:Create a new database table": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "7013c59d3211b91d",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "www.google.com.md",
+    "Dataview/Dataview 1.md",
+    "Dataview/🗓️ Calendar.md",
+    "📆 Activity/30 Jan 2024.md",
+    "📆 Activity/29 Jan 2024.md",
+    "📆 Activity/28 Jan 2024.md",
+    "📆 Activity/24 Dec 2022.md",
+    "📆 Activity/1 Feb 2024.md",
+    "Untitled 3.md",
+    "Untitled 4.md",
+    "1️⃣ Primary Sources/Dhekre 2023.md",
+    "1️⃣ Primary Sources/Connell 1964.md",
+    "Mind Map/Mind mapping.md",
+    "Mind Map/Readme Mind map.md",
+    "Canvas/Readme canvas.md",
+    "Untitled 2.md",
+    "Excalidraw/SLR github.md",
+    "__Media/微信图片_20231026100058.jpg",
+    "Excalidraw/API gateway.md",
+    "Excalidraw/Quadrant.md",
+    "Excalidraw/Drawing 2024-02-05 14.41.24.excalidraw.md",
+    "Excalidraw/component diagram.md",
+    "Excalidraw/Class Diagram.md",
+    "Excalidraw/0 Start.md",
+    "Excalidraw/Untitled.canvas",
+    "Untitled 1.md",
+    "SLR.md",
+    "__Media/cover buku.jpeg",
+    "Buku Penyelidikan",
+    "Exercise 2/~$apter 1.docx",
+    "Exercise 2/Chapter 1.docx",
+    "1️⃣ Primary Sources/Shahizan 2020.docx",
+    "1️⃣ Primary Sources/Shahizan 2020.html",
+    "Canvas/Reference Manager.canvas",
+    "Canvas/Research Mindmap.canvas",
+    "Canvas/Sample.canvas",
+    "Untitled.canvas",
+    "__Media/Pasted Image 20240202102119_150.png",
+    "__Media/Pasted Image 20240202095039_003.jpg",
+    "Canvas/Start here.canvas",
+    "Canvas/Media Dashboard.canvas",
+    "Canvas/Library Dashboard.canvas",
+    "Canvas/Homepage.canvas",
+    "Canvas/Brainstorm.canvas",
+    "__Papers/Shahizan 2020.pdf",
+    "Exercise 2",
+    "Pasted Image 20240204111327_516.png",
+    "__Media/Zettelkasten steps.png",
+    "Canvas",
+    "Kanban",
+    "Zotero",
+    "Pasted Image 20240202101844_201.png",
+    "__Media/Screenshot 2022-12-14 at 17.03.26.jpg",
+    "__Media/Pasted image 20221214131115.png",
+    "__Media/Pasted image 20221214125814.png"
+  ]
+}
